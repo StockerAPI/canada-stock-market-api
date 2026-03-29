@@ -48,7 +48,7 @@ This repository is designed to make Canada market API coverage easier to discove
 
 ## Links
 
-- Website: https://kun.pro/markets/canada-stock-market-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
